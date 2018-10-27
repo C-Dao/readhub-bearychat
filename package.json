@@ -1,0 +1,23 @@
+{
+  "name": "readhub-bearychat",
+  "version": "1.0.0",
+  "author": "BenMix",
+  "description": "''",
+  "main": "src/bin.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://git.dev.tencent.com/C_Dao/readhub-bearychat.git"
+  },
+  "dependencies": {
+    "axios": "^0.18.0",
+    "dotenv": "^6.1.0",
+    "ioredis": "^4.2.0",
+    "bearychat": "^1.2.0",
+    "bearychat-rtm-client": "^0.8.0",
+    "ws": "^6.1.0"
+  },
+  "license": "ISC"
+}
