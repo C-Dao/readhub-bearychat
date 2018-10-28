@@ -9,7 +9,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "https://git.dev.tencent.com/C_Dao/readhub-bearychat.git"
+    "url": "https://github.com/C-Dao/readhub-bearychat.git"
   },
   "dependencies": {
     "axios": "^0.18.0",
